@@ -4,4 +4,4 @@ A passionate and enthusiast backend developer from India
 
 Back-end developer with a passion for Writing API and developement of Robust application.
 
-SKILLS : NodeJs, EXPRESS.JS , JAVASCRIPT , SEQUELIZE , MONGOOSE , AWS , GIT
+SKILLS : NODE.JS, EXPRESS.JS , JAVASCRIPT , SEQUELIZE , MONGOOSE , AWS , GIT
