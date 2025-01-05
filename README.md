@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bhendarkar</h1>
 <h3 align="center">🌟A passionate and enthusiast backend developer from India <br> <br> 💻Back-end developer with a passion for  🛠️Writing RESTful APIs and ⚡developement of Robust application.</h3>
 
-
-
 <p align="right">
   <img src="![image](https://github.com/user-attachments/assets/1bd74d78-cc30-4017-93bf-be98c7630bb5)
 " width="400">
