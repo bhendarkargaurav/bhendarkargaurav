@@ -14,11 +14,9 @@
 
 - 📫 How to reach me: **gauravbhendarkar123@gmail.com**
 
-- 📄 Resume: [https://flowcv.com/resume/1qffi4ivj4](https://flowcv.com/resume/1qffi4ivj4)
+- 📄 <a href="https://drive.google.com/file/d/1mkNWo6bNE_4Vd9TF-nb4yf8OX5P_NAxI/view?usp=drive_link" target="_blank">Resume </a>&nbsp;&nbsp;&nbsp;   My LinkedIn: <a href="https://linkedin.com/in/linkedin.com/in/gaurav-bhendarkar-a38056250" target="blank">LinkedIn </a>
+      
 
-<h3 align="left">My LinkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/gaurav-bhendarkar-a38056250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gaurav-bhendarkar-a38056250" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">SKILL:</h3>
