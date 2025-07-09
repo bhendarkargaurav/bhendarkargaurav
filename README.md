@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **gauravbhendarkar123@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1mkNWo6bNE_4Vd9TF-nb4yf8OX5P_NAxI/view?usp=drive_link" target="_blank">Resume </a>&nbsp;&nbsp;&nbsp;   My LinkedIn: <a href="https://www.linkedin.com/in/gaurav-bhendarkar-a38056250/" target="blank">LinkedIn </a>
+- 📄 <a href="https://drive.google.com/file/d/1-obK7guQVzo4LaoGzee0imTL0t-JZMri/view?usp=drive_link" target="_blank">Resume </a>&nbsp;&nbsp;&nbsp;   My LinkedIn: <a href="https://www.linkedin.com/in/gaurav-bhendarkar-a38056250/" target="blank">LinkedIn </a>
       
 
 </p>
