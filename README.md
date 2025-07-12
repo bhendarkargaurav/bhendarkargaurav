@@ -24,11 +24,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhendarkargaurav&show_icons=true&locale=en&layout=compact" alt="bhendarkargaurav"/></p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhendarkargaurav&show_icons=true&locale=en" alt="bhendarkargaurav"/></p>
 
-<p align="left">
-  < src="https://streak-stats.demolab.com?user=bhendarkargaurav&theme=radical&border_radius=5" alt="GitHub Streak" />
-</p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bhendarkargaurav&" alt="bhendarkargaurav" /></p>
