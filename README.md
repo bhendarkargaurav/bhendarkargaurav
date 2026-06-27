@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhendarkargaurav&label=Profile%20views&color=0e75b6&style=flat" alt="bhendarkargaurav" /> </p>
 
-- 🔭 I’m currently working on **Music Streaming Backend Inspired By Spotify**
+- 🔭 I’m currently working on **Airline Backend System, Ai Integration, RAG, COT**
 
 - 💬 Ask me about **Backend Development**💬
 
 - 📫 How to reach me: **gauravbhendarkar123@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/1-obK7guQVzo4LaoGzee0imTL0t-JZMri/view?usp=drive_link" target="_blank">Resume </a>&nbsp;&nbsp;&nbsp;   My LinkedIn: <a href="https://www.linkedin.com/in/gaurav-bhendarkar-a38056250/" target="blank">LinkedIn </a>
+- 📄 <a href="https://drive.google.com/file/d/1_wK7qmo_YjfFxqQqL0q6jll6JqJhi1FM/view?usp=sharing" target="_blank">Resume </a>&nbsp;&nbsp;&nbsp;   My LinkedIn: <a href="https://www.linkedin.com/in/gaurav-bhendarkar-a38056250/" target="blank">LinkedIn </a>
       
 
 </p>
